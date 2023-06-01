@@ -3,7 +3,11 @@
 `orginventory` scans your organization's Git repositories on hosting services for
 their software dependencies and generates a report.
 
-**This software is in early development stages.** Current goals:
+**This software is in early development stages. Do not expect anything to work. This
+README should be considered a design document only.**
+
+
+## Current goals
 
 * SBOM tool that analyzes Git (or other?) source code repositories stored on hosting
   services, e.g. GitHub.
